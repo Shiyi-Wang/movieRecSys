@@ -18,7 +18,7 @@ In order to run the movie recommender system on Jupytor Notebook, you need to in
 * [pprint](https://docs.python.org/3/library/pprint.html)
 * [sklearn](https://scikit-learn.org/stable/install.html)
 
-### TA Grading Usage
+### General Usage
 
 Please run the following command in the index directory.
 
