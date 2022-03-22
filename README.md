@@ -1,4 +1,4 @@
-# Movie Recommender System: User Based Collaborative Filtering
+# User-based Collaborative Filtering Movie Recommender System
 
 Author: [Shiyi Wang](mailto:swang793@gatech.edu)
 
