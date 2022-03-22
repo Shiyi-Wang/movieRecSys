@@ -1,4 +1,4 @@
-# Movie Recommender System: User Based Collaborative Filtering - A CS 4675 Project
+# Movie Recommender System: User Based Collaborative Filtering
 
 Author: [Shiyi Wang](mailto:swang793@gatech.edu)
 
